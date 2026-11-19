@@ -4,22 +4,22 @@
 
 # Victor Gomes de Sá
 
-Desenvolvo aplicações web e automatizo rotinas de trabalho. Uma pergunta que aparece bastante nos meus projetos é o que acontece com os dados quando alguém clica duas vezes no mesmo botão.
+Sou desenvolvedor full stack. Contribuo em uma plataforma para escritórios contábeis e criei do zero um chat com IA e um sistema de RH. Boa parte do que desenvolvo são ferramentas que as pessoas usam no dia a dia do escritório.
 
-### Faturamento e estoque
+### No que tenho trabalhado
 
-Nesse desafio técnico, separei o faturamento e o estoque em dois serviços em Go, com uma interface em Angular. Um dos casos mais trabalhosos era a nota continuar aberta depois que o estoque já tinha dado baixa nos itens. Atribuí uma chave a cada fechamento. Assim, se a resposta se perder, o faturamento pode repetir o pedido sem descontar os produtos duas vezes.
+**Plataforma contábil.** Faço parte da equipe de desenvolvimento. Criei módulos de escrituração fiscal e contábil e uma integração que permite escolher a branch de um repositório e acompanhar as contribuições de cada pessoa.
 
-[Código](https://github.com/victorgomesdesa/Korp_Teste_VictorGomesDeSa) · [Decisões de arquitetura](https://github.com/victorgomesdesa/Korp_Teste_VictorGomesDeSa/blob/main/docs/technical-design.md)
+**Chat com IA.** Criei uma aplicação em que a pessoa pode organizar suas conversas por projeto, fazer perguntas sobre uma planilha ou selecionar o trecho exato de um PDF que quer discutir.
 
-### Avaliações de equipe
+**Sistema de RH.** Desenvolvi um sistema para cadastrar empresas e colaboradores. A equipe de RH pode abrir uma empresa, escolher um mês e ver quem entrou, quem saiu e quem estava de férias ou afastado.
 
-Criei uma aplicação em React e FastAPI para que gestores avaliem quem responde a eles, direta ou indiretamente. Dois gestores podem avaliar a mesma pessoa na mesma semana, mas cada um só pode enviar uma avaliação. Uma restrição no PostgreSQL garante isso mesmo quando duas requisições chegam juntas.
+**Automações.** Reuni os resultados de execução de vários bots em um painel que a equipe pode consultar. Em outra ferramenta, voltada a documentos fiscais, implementei a retomada de solicitações interrompidas.
 
-[Código](https://github.com/victorgomesdesa/employee-evaluation-platform) · [Testes do limite semanal](https://github.com/victorgomesdesa/employee-evaluation-platform/blob/1e1a926f3eedcc451051f50ce4823cfb3d64c882/backend/tests/test_evaluation_submission.py#L208-L240) · [Teste de envios simultâneos](https://github.com/victorgomesdesa/employee-evaluation-platform/blob/1e1a926f3eedcc451051f50ce4823cfb3d64c882/backend/tests/test_evaluation_submission.py#L495)
+### Dois projetos com código público
 
-### Automação no trabalho
+**Faturamento e estoque.** Separei o faturamento e o estoque em dois serviços em Go, com uma interface em Angular. Se o estoque der baixa e a resposta se perder, o faturamento pode repetir o fechamento da nota sem descontar os itens duas vezes. [Código](https://github.com/victorgomesdesa/Korp_Teste_VictorGomesDeSa) · [Decisões de arquitetura](https://github.com/victorgomesdesa/Korp_Teste_VictorGomesDeSa/blob/main/docs/technical-design.md)
 
-Reuni os resultados de execução de vários bots em um painel que a equipe pode consultar. Em outra ferramenta, voltada a documentos fiscais, implementei a retomada de solicitações interrompidas.
+**Avaliações de equipe.** Nesta aplicação em React e FastAPI, dois gestores podem avaliar a mesma pessoa na mesma semana, mas cada um só pode enviar uma avaliação. Uma restrição no PostgreSQL garante isso mesmo quando dois envios chegam juntos. [Código](https://github.com/victorgomesdesa/employee-evaluation-platform) · [Testes do limite semanal](https://github.com/victorgomesdesa/employee-evaluation-platform/blob/1e1a926f3eedcc451051f50ce4823cfb3d64c882/backend/tests/test_evaluation_submission.py#L208-L240) · [Teste de envios simultâneos](https://github.com/victorgomesdesa/employee-evaluation-platform/blob/1e1a926f3eedcc451051f50ce4823cfb3d64c882/backend/tests/test_evaluation_submission.py#L495)
 
 No meu portfólio dá para jogar no fliperama e clicar no gato para perguntar sobre o meu trabalho. [Visitar meu portfólio](https://victorgomesdesa.github.io/)
