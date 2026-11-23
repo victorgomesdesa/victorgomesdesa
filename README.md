@@ -1,6 +1,6 @@
 [Português (Brasil)](./README.pt-BR.md)
 
-![Ace, a cream cat with dark paws and blue eyes, stands beside Azura, a black cat. Both are watching a CRT monitor.](./assets/banner.png)
+![Azura, a black cat with a violet collar, reaches down from a CRT monitor toward Ace, a blue-eyed Siamese with a paw on the keyboard.](./assets/banner.png)
 
 # Victor Gomes de Sá
 

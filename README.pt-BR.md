@@ -1,6 +1,6 @@
 [English](./README.md)
 
-![Ace, de pelagem creme, patas escuras e olhos azuis, está ao lado da gata preta Azura. Os dois olham para um monitor de tubo.](./assets/banner.png)
+![Azura, a gata preta de coleira violeta, estende a pata do alto do monitor de tubo. Ace, o siamês de olhos azuis, olha para ela com uma pata no teclado.](./assets/banner.png)
 
 # Victor Gomes de Sá
 
