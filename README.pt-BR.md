@@ -1,6 +1,6 @@
 [English](./README.md)
 
-![Um gato preto observa um documento cair na bandeja na tela de um monitor de tubo.](./assets/banner.png)
+![Ace, de pelagem creme, patas escuras e olhos azuis, está ao lado da gata preta Azura. Os dois olham para um monitor de tubo.](./assets/banner.png)
 
 # Victor Gomes de Sá
 

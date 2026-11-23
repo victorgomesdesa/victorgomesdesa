@@ -1,6 +1,6 @@
 [Português (Brasil)](./README.pt-BR.md)
 
-![A black cat watches a document land in a tray on a CRT monitor.](./assets/banner.png)
+![Ace, a cream cat with dark paws and blue eyes, stands beside Azura, a black cat. Both are watching a CRT monitor.](./assets/banner.png)
 
 # Victor Gomes de Sá
 
