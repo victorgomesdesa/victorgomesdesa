@@ -1,6 +1,6 @@
 [Português (Brasil)](./README.pt-BR.md)
 
-![Azura, a black cat with a violet collar, reaches down from a CRT monitor toward Ace, a blue-eyed Siamese with a paw on the keyboard.](./assets/banner.png)
+![Azura, a black cat with a violet collar, reaches down from a CRT monitor toward Ace, a blue-eyed Siamese with a paw on the keyboard.](https://raw.githubusercontent.com/victorgomesdesa/victorgomesdesa/refs/heads/main/assets/banner.png?v=moonlit-studio)
 
 # Victor Gomes de Sá
 

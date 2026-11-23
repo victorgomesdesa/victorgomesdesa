@@ -1,6 +1,6 @@
 [English](./README.md)
 
-![Azura, a gata preta de coleira violeta, estende a pata do alto do monitor de tubo. Ace, o siamês de olhos azuis, olha para ela com uma pata no teclado.](./assets/banner.png)
+![Azura, a gata preta de coleira violeta, estende a pata do alto do monitor de tubo. Ace, o siamês de olhos azuis, olha para ela com uma pata no teclado.](https://raw.githubusercontent.com/victorgomesdesa/victorgomesdesa/refs/heads/main/assets/banner.png?v=moonlit-studio)
 
 # Victor Gomes de Sá
 
